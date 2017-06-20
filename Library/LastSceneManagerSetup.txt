@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SimpleNotificationForIOS/IOS Notification.unity
+  isLoaded: 1
+  isActive: 1
